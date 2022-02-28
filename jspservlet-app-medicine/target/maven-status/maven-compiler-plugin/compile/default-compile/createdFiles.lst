@@ -1,0 +1,4 @@
+model/Medicine.class
+service/MedicineDao.class
+utility/ConnectionManager.class
+controller/MedicineServlet.class
